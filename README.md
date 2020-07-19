@@ -1,7 +1,7 @@
 # 💣AndroidStudio Project CleanUp
 
 [![Releases](https://img.shields.io/github/release/dhaval2404/AndroidStudioProjectCleanUp/all.svg?style=flat-square)](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/releases)
-![Language](https://img.shields.io/badge/language-pyhon-orange.svg)
+![Language](https://img.shields.io/badge/language-python-yellow.svg)
 [![PRWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp)
 
 <div align="center">
