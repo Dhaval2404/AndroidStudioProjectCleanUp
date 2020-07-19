@@ -29,20 +29,26 @@ The script has been tested on Windows 🖥️, but it is completely untested on 
 * Clean up the file with Following Extentions
 	* .iml
 
-# 🎬Preview
-![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-usage.png)
-![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-demo.png)
-
-
 # 💻Setup & Usage
 
 1. Donwload and install the [Python](https://www.python.org/downloads/)
 
 2. Clone/Download this project into your workspace.
 
+	```
+	git clone https://github.com/Dhaval2404/AndroidStudioProjectCleanUp.git
+	```
+
 3. Set your workspace path into Environment variable.
 
 4. Execute the script to Cleanup the folder
+
+	![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-usage.png)
+
+
+# 🎬Preview
+
+![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-demo.png)
   
 
 # ✔️Changelog
