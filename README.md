@@ -30,6 +30,8 @@ The script has been tested on Windows 🖥️, but it is completely untested on 
 	* .iml
 
 # 🎬Preview
+![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-usage.png)
+![](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/blob/master/art/command-line-demo.png)
 
 
 # 💻Setup & Usage
