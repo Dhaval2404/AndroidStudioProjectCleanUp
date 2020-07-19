@@ -33,7 +33,7 @@ The script has been tested on Windows 🖥️, but it is completely untested on 
 
 1. Donwload and install the [Python](https://www.python.org/downloads/)
 
-2. Clone/Download this project into your workspace.
+2. Clone or [Download](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/archive/master.zip) this project into your workspace.
 
 	```
 	git clone https://github.com/Dhaval2404/AndroidStudioProjectCleanUp.git
