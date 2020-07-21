@@ -31,7 +31,7 @@ The script has been tested on Windows 🖥️, but it is completely untested on 
 
 # 💻Setup & Usage
 
-1. Donwload and install the [Python](https://www.python.org/downloads/)
+1. Download and install the [Python](https://www.python.org/downloads/)
 
 2. Clone or [Download](https://github.com/Dhaval2404/AndroidStudioProjectCleanUp/archive/master.zip) this project into your workspace.
 
@@ -64,7 +64,7 @@ We'll be really happy if you sent us feedback. Just send an email to **dhavalpat
 
 ## License
 
-    Copyright 2020, The Android Open Source Project
+    Copyright 2020, Dhaval Patek
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
