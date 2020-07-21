@@ -64,7 +64,7 @@ We'll be really happy if you sent us feedback. Just send an email to **dhavalpat
 
 ## License
 
-    Copyright 2020, Dhaval Patek
+    Copyright 2020, Dhaval Patel
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
